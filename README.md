@@ -246,3 +246,12 @@ Note: Use Python version: 3.8.5
   ```bash 
   python Gesture_Controller.py
   ```
+
+
+ # Collaborators
+  | |  |  |  |  |
+  | ------------- | ------------- | ------------- | ------------- | ------------- |
+  | VAISAKH | [GitHub](github.com/PROMETHEUS-THEGHOST) | [Email](mailto:vaisakhs2255@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vaisakh-sriram-860992213) | [Instagram](https://www.instagram.com/_vaisakhsriram?igshid=ZDdkNTZiNTM=) |
+  | RITHESH | [Github] | [Email] | [LinkedIn] | [Instagram] |
+  | KARUN | [GitHub] | [Email] | LinkedIn | Instagram |
+  
