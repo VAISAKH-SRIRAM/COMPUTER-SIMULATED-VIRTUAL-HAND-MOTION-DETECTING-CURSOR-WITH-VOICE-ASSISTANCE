@@ -252,6 +252,6 @@ Note: Use Python version: 3.8.5
   | |  |  |  |  |
   | ------------- | ------------- | ------------- | ------------- | ------------- |
   | VAISAKH | [GitHub](github.com/PROMETHEUS-THEGHOST) | [Email](mailto:vaisakhs2255@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vaisakh-sriram-860992213) | [Instagram](https://www.instagram.com/_vaisakhsriram?igshid=ZDdkNTZiNTM=) |
-  | RITHESH | [Github] | [Email] | [LinkedIn] | [Instagram] |
-  | KARUN | [GitHub] | [Email] | LinkedIn | Instagram |
+  | RITHESH | [Github] | [Email](ritheshparameswaran3@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rithesh-parameswaran-651935260) | [Instagram] |
+  | KARUN | [GitHub] | [Email] | [LinkedIn](https://www.linkedin.com/in/karun-krishnan-9ab74b245) | Instagram |
   
